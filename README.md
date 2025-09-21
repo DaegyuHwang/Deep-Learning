@@ -5,17 +5,17 @@ This repository contains my personal study notes and code implementations for va
 The main purpose of this repository is to document my learning journey and provide practical examples for each topic. The code is implemented using Python with popular deep learning frameworks.
 
 ## # Topics Covered
-### Deep Learning Basics: Fundamental concepts of deep learning, including linear regression, neural networks, activation functions, and optimization algorithms.
+#### Deep Learning Basics: Fundamental concepts of deep learning, including linear regression, neural networks, activation functions, and optimization algorithms.
 
-### Convolutional Neural Networks (CNN): Study and implementation of CNNs for image classification and other computer vision tasks.
+#### Convolutional Neural Networks (CNN): Study and implementation of CNNs for image classification and other computer vision tasks.
 
-### Generative Adversarial Networks (GAN): Exploration of GANs for generating new data instances that resemble the training data.
+#### Generative Adversarial Networks (GAN): Exploration of GANs for generating new data instances that resemble the training data.
 
-### Auto-Encoders (AE): Learning about auto-encoders for dimensionality reduction and data compression.
+#### Auto-Encoders (AE): Learning about auto-encoders for dimensionality reduction and data compression.
 
-### Transfer Learning: Practical application of pre-trained models to solve new problems efficiently.
+#### Transfer Learning: Practical application of pre-trained models to solve new problems efficiently.
 
-### Explainable AI (XAI): Understanding methods to interpret and explain the predictions of deep learning models.
+#### Explainable AI (XAI): Understanding methods to interpret and explain the predictions of deep learning models.
 
 ## # Reference
 The material and concepts in this repository are based on the following book:
