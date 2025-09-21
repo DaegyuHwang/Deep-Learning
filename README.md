@@ -23,5 +23,3 @@ The material and concepts in this repository are based on the following book:
 Title: Everybody's Deep Learning, 3rd Edition (모두의 딥러닝(3판))
 
 Author: Taeho Cho (조태호)
-
-I welcome any feedback or suggestions!
